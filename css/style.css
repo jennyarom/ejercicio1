@@ -1,0 +1,47 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body {
+    background-color: rgb(214, 247, 236);
+}
+
+h3 {
+    text-align: center;
+}
+
+form {
+    max-width: 400px; /* Ancho máximo del formulario */
+    margin: 0 auto; /* Centrar el formulario */
+    padding: 20px; /* Espaciado interno */
+    background-color: whitesmoke;
+    border-radius: 10px;
+  }
+
+  form label {
+    color: #333; /* Color del texto */
+  }
+
+#nombre{
+    border-radius: 10px;
+    height: 20px;
+}
+
+#email{
+    border-radius: 10px;
+    height: 20px;
+}
+  button {
+    margin: 5px;
+    padding: 5px;
+    background-color: rgb(33, 182, 102);
+    border-radius: 10px;
+    
+  }
+
+  #resultado {
+    margin: 10px;
+    text-align: justify;
+  }
+
